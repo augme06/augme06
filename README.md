@@ -2,7 +2,7 @@
 Hello there! My name is Augusto Gabriel and I'm a Computer Science student 
 
 ##Currently focusing on
-![image]((https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue))
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <!--
