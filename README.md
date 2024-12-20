@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 
 
 <!--
 **augme06/augme06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=augme06)](https://github.com/augme06/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=augme06)
 
