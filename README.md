@@ -1,7 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/ca26de41-fd85-43d2-b46b-d8cdb2d9fe99)
 
 ## About me 
-Hi there! My name is Augusto Gabriel and I'm a Computer Science student. My main focus is in back-end development, currently working with Python and NODE.JS
+Hi there! My name is Augusto Gabriel and I'm a Computer Science student. My main focus is in back-end development.
 
 ## Skills ⚡
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
