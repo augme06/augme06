@@ -45,5 +45,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://raw.githubusercontent.com/augme06/augme06/output/snake.svg" alt="Snake animation" />
+
+###
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=augme06)
 
