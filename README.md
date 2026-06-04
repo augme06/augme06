@@ -1,22 +1,22 @@
 <div align="center">
 
-![Banner](https://github.com/user-attachments/assets/ca26de41-fd85-43d2-b46b-d8cdb2d9fe99)
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTUwM3k4b3hnMWJqOTZ2bW9yMHk4bW12Z2gwMDlxdXp4cHByOXg0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/97Kh95xbTPCpONLtbg/giphy.gif)
 
-## 👉 About me 
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="24" height="24"> About me 
 Hi there! My name is Augusto Gabriel and I'm a Computer Science student. My main focus is in <b>back-end development</b>.
 
-## ⚡ Skills
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="24" height="24"> Skills
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="24" height="24"> Stats
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/augme06/augme06/output/snake.svg" alt="Snake animation" />
@@ -30,4 +30,5 @@ Hi there! My name is Augusto Gabriel and I'm a Computer Science student. My main
 </div>
 
 ###
+
 
