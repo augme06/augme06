@@ -26,7 +26,7 @@ Hi there! My name is Augusto Gabriel and I'm a Computer Science student. My main
 
 <div align="center">
   <img src="https://github-readme-stats-git-master-augustogmes-projects.vercel.app/api?username=augme06&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-git-master-augustogmes-projects.vercel.app/api/top-langs?username=augme06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-git-master-augustogmes-projects.vercel.app/api/top-langs?username=augme06&hide=html,css,jupyter%20notebook&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
